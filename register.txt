@@ -1,1 +1,2 @@
 feature register
+fixing bug feature register
