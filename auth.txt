@@ -1,1 +1,2 @@
 new feature auth v1
+first fixing bug auth
